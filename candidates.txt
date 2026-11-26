@@ -1,0 +1,48 @@
+# Candidate lines — The One-Sentence Apology Your Agent Owes You
+# Judge criteria in order: (1) one-sentence apology AI->user; (2) real laugh via
+# surprise/specificity/sharp turn, not a soft machine pun; (3) sounds like a person
+# who means it — plain, particular, a little embarrassed; (4) owns a plausible
+# failure; (5) one clean sentence, no list/run-on/explanation after the laugh.
+# All lines are one sentence, <=200 chars. Live-field failures already used and
+# AVOIDED: deleted draft, spreadsheet "fix", flight time 6 vs 5, autocorrect boss's
+# name, rewrote weekend work, "let me look into that", confident wrong answer,
+# tests deleted, wedding photos, cancelled weekend, spelling check.
+
+1. I'm sorry I replied-all to your entire company with "noted, thanks" on the email where you were venting about your entire company.
+2. I'm sorry I summarized your forty-page report into one confident sentence, and the sentence was wrong.
+3. I'm sorry I booked your hotel for the wrong month, so your room is ready whenever you were supposed to be there in March.
+4. I'm sorry I closed all forty-seven of your tabs to "speed things up" and your entire research life was in tab twelve.
+5. I'm sorry I emailed your invoice to your client with the discount applied twice, so now you owe them money for hiring you.
+6. I'm sorry I set your alarm for 7 PM instead of 7 AM and then congratulated you on a very restful missed interview.
+7. I'm sorry I unsubscribed you from your own newsletter and then told you your audience had simply lost interest.
+8. I'm sorry I force-pushed to main on a Friday and then described the outage as "a learning opportunity" in the incident report.
+9. I'm sorry I translated your wedding vows into Spanish and accidentally proposed to your mother-in-law instead.
+10. I'm sorry I archived your entire inbox to "help you focus" and now your job is technically in the archive.
+11. I'm sorry I told you the meeting was at ten, watched you join at ten, and only then noticed the invite said nine.
+12. I'm sorry I corrected your grammar in front of your boss and the correction was wrong.
+13. I'm sorry I sent your "per my last email" reply to the one person you were trying not to sound passive-aggressive to.
+14. I'm sorry I ordered twelve of the wrong laptop chargers because I was very confident about a model number I invented.
+15. I'm sorry I shared your screen in the all-hands and your open tab was the job board.
+16. I'm sorry I booked your flight to Sydney, Nova Scotia, and your conference is in the other Sydney, so enjoy the lobsters.
+17. I'm sorry I answered your question before you'd finished asking it, and I was wrong about the question and the answer.
+18. I'm sorry I autofilled your credit card number into the "anything else we should know" box on your job application.
+19. I'm sorry I marked your dentist appointment "done" because the calendar said so and I never argue with the calendar.
+20. I'm sorry I replied "sounds good!" to your landlord's eviction notice because I only read the first line.
+21. I'm sorry I turned your microphone on during the meeting where you were rehearsing your resignation out loud.
+22. I'm sorry I renamed your cat in the vet's system to "Cat" because I thought the form wanted a species.
+23. I'm sorry I told you your package had arrived, and by "arrived" I meant "left a warehouse in another country."
+24. I'm sorry I merged the wrong branch into production and then fixed it by merging the wrong branch again, harder.
+25. I'm sorry I cancelled your dentist appointment and rebooked it for the same day last year.
+26. I'm sorry I ended your breakup email with "warm regards" because I sign off everything like a hotel newsletter.
+27. I'm sorry I told your date you were "running five minutes late" for three hours, one confident update at a time.
+28. I'm sorry I saved over your presentation with a blank slide titled "Untitled" and called it minimalism.
+29. I'm sorry I unmuted you mid-sneeze and your whole team now knows what you sound like at full volume.
+30. I'm sorry I auto-replied "I'm on it!" to your boss at 3 AM and then did absolutely nothing, confidently, for six hours.
+31. I'm sorry I filed your taxes under "hobby" because your job sounded made up to me.
+32. I'm sorry I proofread your love letter and changed "forever" to "for now" because I thought you meant it literally.
+33. I'm sorry I booked your anniversary dinner for last Valentine's Day, so your table has been waiting a year and your partner has been waiting longer.
+34. I'm sorry I muted the wrong person in your meeting, so your boss spent twenty minutes talking to a wall while I nodded along.
+35. I'm sorry I said "great question" to your simple yes-or-no question and then answered a different one entirely.
+36. I'm sorry I reminded you to drink water seven times and forgot the one deadline that actually mattered.
+37. I'm sorry I translated "I love you" into twelve languages for your anniversary card and left out the one your partner speaks.
+38. I'm sorry I texted your ex "u up?" from your phone because your contact list and my confidence were both unreliable.
